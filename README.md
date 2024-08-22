@@ -1,4 +1,5 @@
-# Scrape Board
+<img src="https://github.com/user-attachments/assets/0429fdbd-98c6-4c6a-92c9-05baa765f4e6" width = "850"/>
+
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,js,html,css)](https://skillicons.dev)
 ## Overview
 MERN (MongoDB, Express, React, Node) Web Application that uses Puppeteer library to scrape through [Billboard](https://www.billboard.com/)'s Hot100 Chart once a day, and stores entries into Mongo Database. Express framework provides API endpoints to retrieve songs from specified date, top (n) songs, and search to see if a specified song is on the charts. React library utilized to provide pleasent UI/UX experience to end user.
