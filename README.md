@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0429fdbd-98c6-4c6a-92c9-05baa765f4e6" width = "850"/>
+<img src="https://github.com/user-attachments/assets/0d6a38bf-510c-4d91-bda6-e084917a3c5c" width = "850"/>
 <div align = "center">
 
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,js,html,css)](https://skillicons.dev)
