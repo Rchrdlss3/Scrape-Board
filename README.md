@@ -4,12 +4,6 @@
 MERN (MongoDB, Express, React, Node) Web Application that uses Puppeteer library to scrape through [Billboard](https://www.billboard.com/)'s Hot100 Chart once a day, and stores entries into Mongo Database. Express framework provides API endpoints to retrieve songs from specified date, top (n) songs, and search to see if a specified song is on the charts. React library utilized to provide pleasent UI/UX experience to end user.
 ## <span style = " color: #FF2C2C" >Disclaimer</span>
 The information on this project is for educational and informational purposes only and is not intended for any professional services.
-## Images of Site
-
-<details>
-<summary>Click to Expand</summary>
-
-<details>
 
 ## REST API
 ### Queries
