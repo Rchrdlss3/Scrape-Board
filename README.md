@@ -955,8 +955,13 @@ http://localhost:80/hot100Chart/get?date=2024-08-21&top=5
 
 ### 
 ## Run the app
+`server`
 ```
 nodemon start app.js
+```
+`client`
+```
+npm run start
 ```
 ## Installation
 ### Server
