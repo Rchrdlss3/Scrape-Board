@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/0429fdbd-98c6-4c6a-92c9-05baa765f4e6" width = "850"/>
-<div style = "text-align: center">
+<div align = "center">
 
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,js,html,css)](https://skillicons.dev)
 
